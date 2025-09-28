@@ -1,0 +1,15 @@
+# Compiled files
+*.out
+a.out
+restoring_non_restoring
+
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+
+# IDE files
+.vscode/
+.DS_Store
